@@ -1,2 +1,4 @@
 ﻿https://github.com/martinkunc/automate-chrome
 https://gist.github.com/Pankajbagga/bc521009a8649aee32e194179234ba94
+https://jasmintime.com/349
+https://keyholesoftware.com/2019/02/11/create-your-own-web-bots-in-net-with-cefsharp/
